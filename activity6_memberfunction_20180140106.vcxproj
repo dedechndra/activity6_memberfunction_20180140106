@@ -131,6 +131,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="construktor.h" />
+    <ClInclude Include="destruktor.h" />
     <ClInclude Include="MbrStaticFunc.h" />
     <ClInclude Include="staticmember.h" />
   </ItemGroup>

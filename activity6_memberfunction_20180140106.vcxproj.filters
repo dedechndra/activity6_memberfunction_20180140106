@@ -26,5 +26,8 @@
     <ClInclude Include="MbrStaticFunc.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="staticmember.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

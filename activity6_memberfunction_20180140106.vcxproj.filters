@@ -23,5 +23,8 @@
     <ClInclude Include="construktor.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="MbrStaticFunc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
